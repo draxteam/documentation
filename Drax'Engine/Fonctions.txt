@@ -1,0 +1,33 @@
+     Liste des fonctions du moteur de jeu Drax'Engine
+
+
+
+Fenêtre:
+   - Ouvrir/fermer une fenêtre personnalisable
+   - Changer la résolution
+   - Passer en plein écran
+   - Ajouter des widgets de Qt
+   - Ajouter une action à un widget
+
+Graphique:
+
+
+Son:
+   -Jouer un(e) son/mélodie
+
+Entrée/Sortie:
+   -Lire/écrire dans un fichier binaire
+   -Lire/écrire dans un fichier .txt
+   -Envoyer une requête MySQL
+
+
+Réseau:
+   -Envoyer/recevoir des packets
+
+
+Intelligence artificielle:
+
+
+
+
+
